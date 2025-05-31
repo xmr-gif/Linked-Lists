@@ -1,4 +1,4 @@
-#include "Liste.hpp"
+#include "Liste.h"
 #include <iostream>
 
 #include <cstring> // Pour strlen et strcpy
